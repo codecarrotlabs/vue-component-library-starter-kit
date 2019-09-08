@@ -1,0 +1,18 @@
+{
+  "name": "vue-component-library-starter-kit",
+  "version": "0.0.1",
+  "description": "This is a starter kit for creating a vue component library package.",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "vue-components",
+    "starter-kit",
+    "vue-components-library",
+    "vue-starter-kit"
+  ],
+  "author": {
+    "name": "Yashu Mittal",
+    "email": "yashu@codecarrot.net"
+  },
+  "license": "MIT"
+}
